@@ -3,7 +3,7 @@ programa
 	funcao inicio() {
 
 		real salarioFixo, comissao, totalVendas, salarioFinal 
-          cadeia nomeVendedor
+        cadeia nomeVendedor
           				
 		escreva("Digite o nome do vendedor: ")
 		leia(nomeVendedor)
@@ -15,18 +15,18 @@ programa
 		leia(totalVendas);
 		limpa();
 		
-          comissao = (0.15 * totalVendas);
-	     salarioFinal = (comissao + salarioFixo);
+        comissao = (0.15 * totalVendas);
+	    salarioFinal = (comissao + salarioFixo);
 
-	     escreva("\n ---------------------------------------------------- \n")
-	     escreva("\n|        *** D E M O N S T R A T I V O  ***          |\n")
-	     escreva("\n  --------------------------------------------------- \n")
-	     escreva("\n NOME DO VENDEDOR: ", nomeVendedor, "\n")
-	     escreva("\n SALÁRIO FIXO: R$ ", salarioFixo, "\n")
-	     escreva("\n TOTAL DE VENDAS REALIZADAS: R$ ", totalVendas, "\n")
-	     escreva("\n COMISSÃO SOBRE VENDAS: R$ ", comissao, "\n")
-	     escreva("\n SALÁRIO FINAL: R$ ", salarioFinal, "\n")
-	     escreva("\n ---------------------------------------------------- \n")
+	    escreva("\n ---------------------------------------------------- \n")
+	    escreva("\n|        *** D E M O N S T R A T I V O  ***          |\n")
+	    escreva("\n  --------------------------------------------------- \n")
+	    escreva("\n NOME DO VENDEDOR: ", nomeVendedor, "\n")
+	    escreva("\n SALÁRIO FIXO: R$ ", salarioFixo, "\n")
+	    escreva("\n TOTAL DE VENDAS REALIZADAS: R$ ", totalVendas, "\n")
+	    escreva("\n COMISSÃO SOBRE VENDAS: R$ ", comissao, "\n")
+	    escreva("\n SALÁRIO FINAL: R$ ", salarioFinal, "\n")
+	    escreva("\n ---------------------------------------------------- \n")
      }
  }    
 /* $$$ Portugol Studio $$$ 

@@ -25,7 +25,7 @@ programa
 		porcBrancos = ((100 * votosBrancos)/totalEleitores);
 		escreva("\nPorcentagem de votos brancos: ", porcBrancos,"%\n");
 		porcNulos = ((100 * votosNulos)/totalEleitores);
-		escreva("\nPorcentagem de votos brancos: ", porcBrancos,"%\n");
+		escreva("\nPorcentagem de votos nulos: ", porcNulos,"%\n");
 		porcValidos = ((100 * votosValidos)/totalEleitores);
 		escreva("\nPorcentagem de votos válidos: ", porcValidos,"%\n");
 		escreva("\n-------------------------------------\n")
