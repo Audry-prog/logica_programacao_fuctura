@@ -25,26 +25,26 @@ Q7. O custo de um carro novo ao consumidor é a soma do custo de fábrica mais a
 Q8. Escreva um algoritmo utilizando o Portugol Studio que leia três notas e mostre a média final deste aluno. Considerar que a média é ponderada e que o peso das notas é 2, 3 e 5. Utilizar a fórmula
 abaixo para o cálculo da média:
 
-                                                     `js
-                                                                     n1 * 2 + n2 * 3 + n3 * 5
-                                                      mediafinal =   ------------------------
-                                                                                10
-                                                                                             `
+```js
+                                                                          n1 * 2 + n2 * 3 + n3 * 5
+                                                           mediafinal  =  ------------------------
+                                                                                     10
+```
 
 Q9. Você recebeu um novo trabalho. Basicamente você terá que esecrver um algoritmo usando o Portugol Studio que irá calclar o Turnover de uma empresa e mostrar esse valor. Utilizar a fórmula abaixo para o cálculo da Turnover:
 
 ```js
-                     15 + 20 
-                     ------- * 100
-                        2
-   turnover =  ------------------------
-                           150
+                                                                               15 + 20 
+                                                                               ------- * 100
+                                                                                  2
+                                                              turnover =  ------------------------
+                                                                                    150
 ```
 
 Q10. Henrique é dono de uma pizarria e gostaria que você construísse uma calculadora simples de consumo de energia elétrica dos apareelhos de seu estabelecimento comercial. Assim, ele poderia saber quanto cada aparelho consome em reais. Em Pernambuco, a tarifa da energia definida pela ANEEL em Kwh custa R$ 0,39. Utilizar a fórmula abaixo como exemplo para o cálculo do consumo de energia de um aparelho:
 
 ```js
-          5400Whatts * 1hora * 30 dias
-   kwh =  ---------------------------- = 162kwh/mês
-                     150
+                                                                      5400 Whatts * 1hora * 30 dias
+                                                             kwh =   -----------------------------   = 162kwh/mês
+                                                                                   150
 ```
