@@ -29,7 +29,7 @@ Q6. Elabore e escreva no Portugol Studio um algoritmo que calcule e mostre no co
       1      | À vista em dinheiro, recebe 10% de desconto sobre o preço normal |
       2      | À vista no cartão, recebe 5% de desconto sobre o preço normal    |
       3      | Em duas vezes sem juros                                          |
-      4      |Em três vezes com juros. Preço normal com mais 10% de juros       |
+      4      | Em três vezes com juros. Preço normal com mais 10% de juros      |
 
 Q7. O IMC - Índice de Massa Corporal é um critério da Organização Mundial de Saúde para dar uma indicação sobre a condição de peso de uma pessoa adulta. A fórmula do IMC = peso / (altura * altura). Elabore um algorítmo no Portugol Studio que leia peso e altura do usuário e mostre a sua condição.
 
