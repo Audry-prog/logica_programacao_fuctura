@@ -9,12 +9,11 @@ Construir algoritmos onde deve-se levar em conta os tipos de dados aderentes à 
 ### Questões:
 
 Q1 - Escreva um algoritmo utilizando o  Portugol Studio que leia um número N e exiba 4 opções para o usuário:
-´´´
- 1 - Exibir os números ímpares de 0 até N;
- 2 - Exibir os números pares de 0 até N;
- 3 - Exibir todos os números de 0 até N;
- 4 - Sair.
- ´´´
+
+ 1. Exibir os números ímpares de 0 até N;
+ 2. Exibir os números pares de 0 até N;
+ 3. Exibir todos os números de 0 até N;
+ 4. Sair.
 
 O número digitado pelo o usuário não pode ser negativo, você deve validar a entrada. Enquanto ele não digitar um valor positivo você não deve continuar.
 
